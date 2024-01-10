@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+
+.embla{
+  overflow :hidden;
+  margin-top :10%;
+  justify-items: center;
+}
+.embla_slide{
+  flex: 0 0 100%;
+  min-width: 0;
+}
